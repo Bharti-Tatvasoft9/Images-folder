@@ -1,0 +1,22 @@
+UserID,Name,Address,Age,Email
+1,Alice Smith,123 Main St,20,alice@example.com
+2,,456 Oak Ave,34,bob@example.com
+3,Charlie Brown,,29,charlie@example.com
+4,Diana Taylor,321 Maple Ln,42,diana@example.com
+5,Ethan Wilson,654 Elm St,36,ethan@example.com
+6,Fiona Evans,987 Birch Blvd,31,fiona@example.com
+7,George Thomas,159 Cedar Ct,45,gmpom@gmail.com
+8,Hannah Roberts,753 Spruce Dr,27,hannah@example.com
+9,Ian Walker,852 Walnut Way,39,ian@example.com
+10,Jane Hall,963 Aspen Pl,30,jane@example.com
+11,John Doe,123 Main St Springfield, 29,john.doe@example.com
+12,,456 Elm St New York, ,invalid-email
+13,Alice Smith,,45,alice.smith@domain
+14,Bob Johnson,789 Oak Ave, ,bob.johnson@example.com
+15,null,null,null,null
+16,Carol White,321 Pine St, Los Angeles,carol.white@
+17,,,"",no-email
+18,David Lee,555 Maple Blvd, Chicago,34,
+19,Eva Adams,890 Birch St, 27,eva.adams@example.com
+20,,"",null,eva@@example
+
